@@ -1,0 +1,9 @@
+streamlit
+tensorflow
+Pillow
+numpy
+transformers
+sentencepiece
+torch
+whisper
+ffmpeg-python
